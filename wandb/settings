@@ -1,0 +1,5 @@
+[default]
+entity = dbssus123
+project = Kaggle - swin transformer
+base_url = https://api.wandb.ai
+
